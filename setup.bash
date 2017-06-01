@@ -1,4 +1,5 @@
 #!/bin/bash -xve
+# aho
 
 exec 2> /tmp/setup.log
 
