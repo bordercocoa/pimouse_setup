@@ -1,5 +1,6 @@
 #!/bin/bash -xve
 #Written by Katsu
+# aho
 
 exec 2> /tmp/setup.log
 
